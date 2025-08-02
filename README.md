@@ -5,8 +5,7 @@ Daisy's_portfolio_project
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cee's Portfolio</title>
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <titles>Daisy's portfolio</titles> Portfolio</title>
   <style>
     :root {
       --primary: #0D1B2A; /* Dark blue header */
